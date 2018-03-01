@@ -1,2 +1,2 @@
 # Golf-Tournament
-Monte Carlo Golf Tournament Simulation
+Monte Carlo Simulation of Golf Tournament 
